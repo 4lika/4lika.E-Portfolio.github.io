@@ -5,7 +5,7 @@
 /* hero background image */
 .bgimage {
     height:100vh;
-    background: url(file:///C:/Users/AKP/Downloads/E-Portfolio/Images/1000000330.jpg);
+    background: url(Images/1000000330.jpg);
     background-size:cover;
     position:relative;
 }
