@@ -57,19 +57,28 @@
     color: #000000;
 }
 
-div.gallery:hover {
-  border: 1px solid #777;
+.JobJam {
+    width: 100%;
+}
+#table {
+    display: table;
 }
 
-div.gallery img {
-  width: 100%;
-  height: auto;
+.row {
+    display: table-row;
 }
 
-div.desc {
-  padding: 15px;
-  text-align: center;
+.cell {
+    display: table-cell;
+    padding: 20px;
 }
+
+
+
+.fab {
+    color: #000000;
+}
+
 /* footer styling */
 #footer {
     background-color: #808080;
